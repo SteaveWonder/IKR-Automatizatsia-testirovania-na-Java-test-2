@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ca46f2d1-c8d3-47c3-bb19-0b06d50106c4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MathService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NotFoundAnswerException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MathServiceTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2kJt73PyjYY6R4agvZjpt0ta9oK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.MathServiceTest.testExceptionInGetAnswerDiscriminantLessZero.executor": "Run",
+    "JUnit.MathServiceTest.testGetAnswerDiscriminantEqualZero.executor": "Run",
+    "JUnit.MathServiceTest.testGetAnswerDiscriminantOverZero.executor": "Run",
+    "JUnit.MathServiceTest.testGetD.executor": "Run",
+    "JUnit.MathServiceTest.testGetExceptionInGetAnswerWithAEqualZero.executor": "Debug",
+    "JUnit.MathServiceTest.testGetExceptionInGetAnswerWithIntOverflow.executor": "Run",
+    "JUnit.MathServiceTest.testPairToString.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.MathServiceTest.testGetExceptionInGetAnswerWithAEqualZero">
+    <configuration name="MathServiceTest.testExceptionInGetAnswerDiscriminantLessZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IKR---Automatizatsia-testirovania-na-Java-test-2-" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MathServiceTest" />
+      <option name="METHOD_NAME" value="testExceptionInGetAnswerDiscriminantLessZero" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MathServiceTest.testGetAnswerDiscriminantEqualZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IKR---Automatizatsia-testirovania-na-Java-test-2-" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MathServiceTest" />
+      <option name="METHOD_NAME" value="testGetAnswerDiscriminantEqualZero(int,int,int,double)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MathServiceTest.testGetAnswerDiscriminantOverZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IKR---Automatizatsia-testirovania-na-Java-test-2-" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MathServiceTest" />
+      <option name="METHOD_NAME" value="testGetAnswerDiscriminantOverZero(int,int,int,double,double)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MathServiceTest.testGetExceptionInGetAnswerWithAEqualZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IKR---Automatizatsia-testirovania-na-Java-test-2-" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MathServiceTest" />
+      <option name="METHOD_NAME" value="testGetExceptionInGetAnswerWithAEqualZero" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MathServiceTest.testGetExceptionInGetAnswerWithIntOverflow" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IKR---Automatizatsia-testirovania-na-Java-test-2-" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MathServiceTest" />
+      <option name="METHOD_NAME" value="testGetExceptionInGetAnswerWithIntOverflow" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MathServiceTest.testGetExceptionInGetAnswerWithAEqualZero" />
+        <item itemvalue="JUnit.MathServiceTest.testGetExceptionInGetAnswerWithIntOverflow" />
+        <item itemvalue="JUnit.MathServiceTest.testExceptionInGetAnswerDiscriminantLessZero" />
+        <item itemvalue="JUnit.MathServiceTest.testGetAnswerDiscriminantEqualZero" />
+        <item itemvalue="JUnit.MathServiceTest.testGetAnswerDiscriminantOverZero" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca46f2d1-c8d3-47c3-bb19-0b06d50106c4" name="Changes" comment="" />
+      <created>1723013344897</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723013344897</updated>
+    </task>
+    <servers />
+  </component>
+</project>
